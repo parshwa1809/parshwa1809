@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @parshwa1809
-- 👀 I’m interested in applied machine leaning and Deep learning Projects.
-- 🌱 I’m currently learning Neural Network models
+- I'm Results-driven Business Analyst and Product Manager with a strong background in data science, product optimization, and analytics. Proven track 
+record in enhancing business performance and operational efficiency through data-driven strategies, achieving measurable impacts such as 
+revenue growth and client acquisition. Skilled in managing complex projects, leading cross-functional teams, and translating data insights into 
+actionable solutions. Known for an analytical mindset, innovative problem-solving abilities, and a commitment to continuous learning, utilizing 
+advanced methodologies and technologies to drive strategic decisions and support organizational success. 
 - 💞️ I’m looking to collaborate with oppurtunities which provide me further enhancement in my field of interest.
 - 📫 How to reach me https://www.linkedin.com/in/parshwa-shah-devang/
 
