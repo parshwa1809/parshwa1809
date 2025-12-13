@@ -1,6 +1,6 @@
 # Hi there, I'm Parshwa Shah! 👋
 
-### Assistant Product Manager | Agentic AI & RAG Builder | Cloud Architect
+### Associate Product Manager | Agentic AI & RAG Builder | Cloud Architect
 
 I sit at the intersection of **Product Strategy** and **Engineering**. With a Master's from **UT Dallas** and a background in Computer Engineering, I bridge the gap between complex AI capabilities and real-world business value.
 
