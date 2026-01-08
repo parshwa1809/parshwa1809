@@ -11,9 +11,9 @@ I don't just define the vision for intelligent systems; I possess the technical 
 ### 📊 Professional Impact
 I drive the development of scalable products with measurable business results, balancing user needs with engineering constraints.
 
-* [cite_start]**19% Revenue Growth:** Executed GTM strategies at *FunAsia Network* that drove significant revenue uplift and a **23% improvement in user retention**[cite: 15].
-* [cite_start]**35% Engagement Uplift:** Architected and deployed AI-powered recommendation and segmentation models to enhance platform personalization[cite: 17].
-* [cite_start]**87% Prediction Accuracy:** Engineered predictive analytics models at *3Victors* to optimize competitive pricing strategies for a B2B travel data firm[cite: 23].
+* **19% Revenue Growth:** Executed GTM strategies at *FunAsia Network* that drove significant revenue uplift and a **23% improvement in user retention**[cite: 15].
+* **35% Engagement Uplift:** Architected and deployed AI-powered recommendation and segmentation models to enhance platform personalization[cite: 17].
+* **87% Prediction Accuracy:** Engineered predictive analytics models at *3Victors* to optimize competitive pricing strategies for a B2B travel data firm[cite: 23].
 * [cite_start]**40% Error Reduction:** Implemented automated testing and CI/CD pipelines at *Stallion Archisys*, significantly elevating code reliability.
 * [cite_start]**22% Efficiency Gain:** Streamlined campaign performance monitoring by integrating analytics outputs with AWS Athena ETL pipelines[cite: 25].
 
