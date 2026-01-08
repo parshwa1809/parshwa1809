@@ -23,7 +23,7 @@ I drive the development of scalable products with measurable business results, b
 
 #### 🤖 Live Stock Analysis Agent (Agentic AI)
 **An Autonomous AI Financial Analyst that "understands" market context.**
-[cite_start]A local, distributed system combining quantitative technical analysis with semantic news search to explain *why* the market is moving[cite: 31, 32].
+]A local, distributed system combining quantitative technical analysis with semantic news search to explain *why* the market is moving[cite: 31, 32].
 * [cite_start]**The Brain:** RAG pipeline using **Phi-3 (Ollama)**, **LangChain**, and **FAISS** vector search[cite: 32, 33].
 * **The Math:** Implemented custom **Quadratic Relevance Scoring** to prioritize recent volatility.
 * [cite_start]**The Engineering:** Fully Dockerized **FastAPI** backend with a responsive **React.js** frontend[cite: 32, 34].
