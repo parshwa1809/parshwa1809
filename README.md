@@ -38,13 +38,11 @@ Engineered the production architecture for a matchmaking application ensuring se
 ---
 
 ### 🛠️ Technical Stack
-* **Languages:** Python (Advanced), SQL, JavaScript, HTML/CSS.
-* **AI & ML:** Agentic AI, RAG, LangChain, FAISS, Sentence Transformers, XGBoost, Scikit-learn, LLMs (OpenAI, Gemini, Ollama).
-* **Cloud & DevOps:** AWS (EC2, S3, Route 53, IAM, Lambda), Docker, Nginx, CI/CD, Snowflake, Databricks.
-* **Web:** FastAPI, React.js, RESTful APIs, Dash/Plotly.
-* **Product Strategy:** A/B Testing, Cohort Analysis, Backlog Management (Jira), GTM Strategy, User Acquisition Cost (CAC) Analysis.
-
----
+* **Product & Strategy**: Product Strategy, Roadmaps, PRDs, Agile/Scrum, Stakeholder Management, GTM Strategy
+* **Product Analytics**: A/B Testing, Funnel Analysis, Cohort Analysis, KPI Definition, Product Metrics, Customer Segmentation
+* **Technical & Cloud Foundations**: SQL, Python (Pandas, NumPy), APIs, AWS, Data Pipelines, Tableau, Power BI
+* **AI / LLM**: OpenAI APIs, LangChain, LangGraph, Prompt Engineering, RAG Pipelines
+* **Tools**: Jira, Google Analytics, Figma, n8n, Cursor
 
 ### 📫 Connect with me
 * [LinkedIn](https://www.linkedin.com/in/parshwa-shah-devang)
